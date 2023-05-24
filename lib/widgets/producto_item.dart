@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 
-class DoctorItem extends StatelessWidget {
+class ProductoItem extends StatelessWidget {
   final String image;
   final String name;
   final String specialist;
-  const DoctorItem({
+  const ProductoItem({
     Key? key,
     required this.image,
     required this.name,

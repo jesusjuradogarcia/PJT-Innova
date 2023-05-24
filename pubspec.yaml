@@ -1,4 +1,4 @@
-name: flutter_medical_ui
+name: jesus
 description: A new Flutter project.
 
 # The following line prevents the package from being accidentally published to
@@ -59,10 +59,26 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
-    - assets/
-  #   - images/a_dot_ham.jpeg
+     - assets/nike1.jpg
+     - assets/nike2.jpg
+     - assets/nike3.jpg
+     - assets/nike4.jpg
+     - assets/pm.png
+     - assets/tenis1.jpg
+     - assets/doctor.jpg
+     - assets/doctor.png
+     - assets/doctor1.png
+     - assets/doctor2.png
+     - assets/doctor3.png
+     - assets/doctor4.png
+     - assets/calce.jpg
+     - assets/produ.jpg
+     - assets/slide1.jpg
+     - assets/slide1.png
+     - assets/slide2.png
+     - assets/produ2.jpg
 
-  # An image asset can refer to one or more resolution-specific "variants", see
+   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
 
   # For details regarding adding assets from package dependencies, see

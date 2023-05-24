@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 
-class SpecialistItem extends StatelessWidget {
+class ClienteItem extends StatelessWidget {
   final String imagePath;
   final String imageName;
-  const SpecialistItem({
+  const ClienteItem({
     Key? key,
     required this.imagePath,
     required this.imageName,
